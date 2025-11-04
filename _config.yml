@@ -1,0 +1,5 @@
+title: "OXGLP Blog"
+description: "Blog oficial OXGLP® - Saúde e resultados reais"
+theme: minima
+plugins:
+  - jekyll-feed
