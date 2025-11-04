@@ -1,0 +1,184 @@
+---
+layout: none
+title: "Blog"
+---
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image:src" content="https://oxglp.com/assets/images/blog-meta.jpg">
+  <meta property="og:image" content="https://oxglp.com/assets/images/blog-meta.jpg">
+  <meta name="twitter:title" content="OXGLP® Blog">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="https://oxglp.com/assets/images/favicon.png" type="image/x-icon">
+  <meta name="description" content="Acompanhe as últimas novidades do OXGLP®. Dicas, resultados e informações sobre o uso da Tirzepatida e o emagrecimento saudável.">
+
+  <title>{{ page.title }} - OXGLP®</title>
+
+  <!-- Estilos Mobirise -->
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=R9QLTW">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=R9QLTW" type="text/css">
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RQFXCKC84R"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-RQFXCKC84R');
+  </script>
+
+  <style>
+    iframe, img { border-radius: 8px; }
+    .item-img img { width: 100%; height: auto; }
+  </style>
+</head>
+
+<body>
+
+<!-- MENU -->
+<section data-bs-version="5.1" class="menu menu2 cid-v1B3BJWyzg" once="menu" id="menu2-1q">
+  <nav class="navbar navbar-dropdown navbar-expand-lg">
+    <div class="container-fluid">
+      <div class="navbar-brand">
+        <a href="https://oxglp.com#top">
+          <img src="https://oxglp.com/assets/images/favicon-1.png" alt="OXGLP®" style="height: 3rem;">
+        </a>
+        <span class="navbar-caption-wrap">
+          <a class="navbar-caption text-warning display-7" href="https://oxglp.com#top">OXGLP®</a>
+        </span>
+      </div>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+        <div class="hamburger"><span></span><span></span><span></span><span></span></div>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav nav-dropdown">
+          <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="/">Home</a></li>
+          <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="/#features1-1">Sobre</a></li>
+          <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="/#content16-a">FAQ</a></li>
+        </ul>
+
+        <div class="icons-menu">
+          <a class="iconfont-wrapper" href="https://facebook.com/search/top/?q=Tirzepatida" target="_blank"><span class="p-2 mbr-iconfont socicon-facebook socicon"></span></a>
+          <a class="iconfont-wrapper" href="https://oxglp.com/gzap.html" target="_blank"><span class="p-2 mbr-iconfont socicon-whatsapp socicon"></span></a>
+          <a class="iconfont-wrapper" href="https://instagram.com/mounjarobr" target="_blank"><span class="p-2 mbr-iconfont socicon-instagram socicon"></span></a>
+        </div>
+
+        <div class="navbar-buttons mbr-section-btn">
+          <a class="btn btn-warning display-4" href="/#header1-8"><span class="mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn"></span>Comprar</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+</section>
+
+<!-- POST MAIS RECENTE -->
+<section data-bs-version="5.1" class="content5 cid-v1B6QhAto8" id="content5-26">
+  <div class="container">
+    {% assign post = site.posts.first %}
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-7">
+        <h3 class="mbr-section-title mbr-fonts-style mb-4 display-2"><strong>{{ post.title }}</strong></h3>
+        <h4 class="mbr-section-subtitle mbr-fonts-style mb-4 display-5">{{ post.description }}</h4>
+        <div class="mbr-text mbr-fonts-style display-7">{{ post.content }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MAIS LIDOS -->
+<section data-bs-version="5.1" class="content2 cid-v1B4p9OVbT" id="content2-24">
+  <div class="container">
+    <div class="mbr-section-head">
+      <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Mais lidos do blog.</strong></h4>
+      <h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2 display-5">
+        Leia as postagens recentes do blog sobre:
+      </h5>
+    </div>
+    <div class="row mt-4">
+      {% for post in site.posts offset:1 limit:4 %}
+      <div class="item features-image col-12 col-md-6 col-lg-3">
+        <div class="item-wrapper">
+          <div class="item-img">
+            <a href="{{ post.url }}"><img src="{{ post.image | default: 'https://oxglp.com/assets/images/blog-meta.jpg' }}" alt="{{ post.title }}"></a>
+          </div>
+          <div class="item-content">
+            <h6 class="item-subtitle mbr-fonts-style mt-1 display-7"><strong>{{ post.title }}</strong></h6>
+            <p class="mbr-text mbr-fonts-style mt-3 display-7">{{ post.description }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- FORMULÁRIO -->
+<section data-bs-version="5.1" class="form4 cid-v1B3BPkN1R mbr-fullscreen" id="form4-21">
+  <div class="container">
+    <div class="row content-wrapper justify-content-center">
+      <div class="col-lg-4 offset-lg-1 mbr-form">
+        <form method="post" action="https://ilove.oxglp.com/w/1e1e8fgBeFJsl8WVye48c84495">
+          <h1 class="mbr-section-title mb-4 display-2"><strong>Acompanhe a jornada de perto.</strong></h1>
+          <p class="mbr-text mbr-fonts-style mb-4 display-4">Cadastre seu e-mail e receba novidades, resultados reais e dicas exclusivas.</p>
+          <div class="form-group mb-3">
+            <input type="text" name="fname_1" placeholder="Nome" class="form-control display-7">
+          </div>
+          <div class="form-group mb-3">
+            <input type="email" name="email_2" placeholder="Digite seu melhor e-mail" class="form-control display-7">
+          </div>
+          <button type="submit" class="btn btn-warning display-4">Quero acompanhar!</button>
+        </form>
+      </div>
+      <div class="col-lg-6 offset-lg-1 col-12">
+        <div class="image-wrapper">
+          <img class="w-100" src="https://oxglp.com/assets/images/img-formulario.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RODAPÉ -->
+<section data-bs-version="5.1" class="footer3 cid-v1B3BQ7KLN" once="footers" id="footer3-23">
+  <div class="container">
+    <div class="media-container-row align-center mbr-white">
+      <ul class="foot-menu">
+        <li><a href="/" class="text-success">Home</a></li>
+        <li><a href="/#features1-1" class="text-success">Sobre</a></li>
+        <li><a href="/#form4-6" class="text-success">Contato</a></li>
+      </ul>
+      <div class="social-list">
+        <a href="https://instagram.com/mounjarobr"><span class="mbr-iconfont socicon-instagram socicon"></span></a>
+        <a href="https://facebook.com/search/top/?q=Tirzepatida"><span class="mbr-iconfont socicon-facebook socicon"></span></a>
+        <a href="https://youtube.com/results?search_query=Tirzepatida"><span class="mbr-iconfont socicon-youtube socicon"></span></a>
+      </div>
+      <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-4">© 2025 OXGLP®. Revolução do emagrecimento.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Scripts -->
+<script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/smoothscroll/smooth-scroll.js"></script>
+<script src="assets/ytplayer/index.js"></script>
+<script src="assets/dropdown/js/navbar-dropdown.js"></script>
+<script src="assets/theme/js/script.js"></script>
+<script src="assets/formoid/formoid.min.js"></script>
+
+</body>
+</html>
