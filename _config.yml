@@ -3,3 +3,4 @@ description: "Blog oficial OXGLP® - Saúde e resultados reais"
 theme: minima
 plugins:
   - jekyll-feed
+permalink: /oxglp.com/:title.html
