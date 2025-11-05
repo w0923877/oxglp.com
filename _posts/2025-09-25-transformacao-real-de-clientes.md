@@ -1,7 +1,7 @@
 ---
 title: "Transformação real de clientes OXGLP®"
 description: "Resultados reais e fotos de antes e depois impressionam a comunidade."
-image: "https://oxglp.com/assets/images/oxglp.gif"
+image: "https://oxglp.com/assets/images/oxglp.gif?v=005"
 ---
 
 O programa OXGLP® está mudando vidas.  
