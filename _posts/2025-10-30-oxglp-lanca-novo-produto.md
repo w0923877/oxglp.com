@@ -10,6 +10,10 @@ A OXGLP®, referência em inovação e qualidade no segmento de nutrição e bem
 
 Segundo a empresa, o novo produto foi criado a partir de um intenso processo de pesquisa e desenvolvimento, combinando **ciência, tecnologia e saúde metabólica** em uma fórmula capaz de potencializar o processo natural de emagrecimento. O objetivo é claro: **ajudar homens e mulheres a alcançarem o peso ideal com mais rapidez, segurança e eficácia**, sem abrir mão do equilíbrio e da saúde.
 
+
+!["OXGLP® lança novo produto para controle de peso](https://usagif.com/wp-content/uploads/surprised-amazed-shocked-52.gif)
+
+
 ---
 
 ### **Uma nova geração de soluções em controle de peso**
@@ -67,4 +71,5 @@ O lançamento da nova fórmula OXGLP® representa um **grande avanço no mercado
 Enquanto os testes seguem em andamento, a expectativa do público cresce — e com base nas primeiras impressões, tudo indica que a OXGLP® mais uma vez acertou em cheio.
 
 O futuro do controle de peso inteligente começa agora — e ele tem nome: **OXGLP®**.
+
 
