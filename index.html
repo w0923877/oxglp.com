@@ -86,17 +86,18 @@ title: "Blog"
 </section>
 
 <!-- POST MAIS RECENTE -->
-<section data-bs-version="5.1" class="content5 cid-v1B6QhAto8" id="content5-26">
-  <div class="container">
-    {% assign post = site.posts.first %}
-    <div class="row justify-content-center">
-      <div class="col-md-12 col-lg-7">
-        <h3 class="mbr-section-title mbr-fonts-style mb-4 display-2"><strong>{{ post.title }}</strong></h3>
-        <h4 class="mbr-section-subtitle mbr-fonts-style mb-4 display-5">{{ post.description }}</h4>
-        <div class="mbr-text mbr-fonts-style display-7">{{ post.content }}</div>
-      </div>
+<section data-bs-version="5.1" class="content5 cid-v1B6QhAto8" id="content5-26">    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-7">
+                <h3 class="mbr-section-title mbr-fonts-style mb-4 display-2"><strong>{Title}</strong></h3>
+                <h4 class="mbr-section-subtitle mbr-fonts-style mb-4 display-5">
+                    {description}</h4>
+                <p class="mbr-text mbr-fonts-style display-7">
+                    {content}</p>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
 <!-- MAIS LIDOS -->
@@ -128,29 +129,45 @@ title: "Blog"
 
 <!-- FORMULÁRIO -->
 <section data-bs-version="5.1" class="form4 cid-v1B3BPkN1R mbr-fullscreen" id="form4-21">
-  <div class="container">
-    <div class="row content-wrapper justify-content-center">
-      <div class="col-lg-4 offset-lg-1 mbr-form">
-        <form method="post" action="https://22.e-goi.com/w/1e1e8fgBe2rTuO4Vwzecbb91fcc">
-          <h1 class="mbr-section-title mb-4 display-2"><strong>Acompanhe a jornada de perto.</strong></h1>
-          <p class="mbr-text mbr-fonts-style mb-4 display-4">Cadastre seu e-mail e receba novidades, resultados reais e dicas exclusivas.</p>
-          <div class="form-group mb-3">
-            <input type="text" name="fname_1" placeholder="Nome" class="form-control display-7">
-          </div>
-          <div class="form-group mb-3">
-            <input type="email" name="email_2" placeholder="Digite seu melhor e-mail" class="form-control display-7">
-          </div>
-          <button type="submit" class="btn btn-warning display-4">Quero acompanhar!</button>
-        </form>
-      </div>
-      <div class="col-lg-6 offset-lg-1 col-12">
-        <div class="image-wrapper">
-          <img class="w-100" src="https://rawcdn.githack.com/w0923877/oxglp.com/2d3256b24eb52d4130d343aee044c7615d9c1443/assets/images/img-formulario.jpg?v=251104" alt="">
+
+    <div class="container">
+        <div class="row content-wrapper justify-content-center">
+            <div class="col-lg-4 offset-lg-1 mbr-form" data-form-type="formoid">
+<form method="post" enctype="multipart/form-data" action="https://22.e-goi.com/w/1e1e8fgBe2rTuO4Vwzecbb91fcc" class="mbr-form form-with-styler" data-form-title="Comunidade de Clientes">    
+    <input type="hidden" name="lista" value="1">
+    <input type="hidden" name="cliente" value="1779336">
+    <input type="hidden" name="lang" id="lang_id" value="br">
+    <input type="hidden" name="formid" id="formid" value="1">
+
+<div class="dragArea row">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<h1 class="mbr-section-title mb-4 display-2"><strong>Acompanhe a jornada de perto.</strong></h1>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12">
+<p class="mbr-text mbr-fonts-style mb-4 display-4">Nossos clientes estão em plena transformação e queremos compartilhar cada passo com você.<br><br><strong>Cadastre seu e-mail e receba em primeira mão:</strong><br><em>- Novos vídeos com depoimentos.<br>- Resultados reais de clientes, atualizados.<br>- Dicas de emagrecimento saudável que realmente funcionam.</em><br><br>Não perca nenhuma atualização.<br>Junte-se à <strong>nossa comunidade</strong> e <strong>veja o progresso real</strong>, direto na sua caixa de entrada.</p>
+</div>
+
+        <div data-for="name" class="col-lg-12 col-md col-12 form-group mb-3">
+            <input type="text" name="fname_1" placeholder="Nome" data-form-field="name" class="form-control display-7" value="" id="fname_1">
         </div>
-      </div>
+        
+        <div data-for="email" class="col-lg-12 col-md col-12 form-group mb-3">
+            <input type="email" name="email_2" placeholder="Digite seu melhor E-mail" data-form-field="email" class="form-control display-7" value="" id="email_2">
+        </div>
+
+<div class="col-12 col-md-auto mbr-section-btn"><button type="submit" class="btn btn-warning display-4"><span class="socicon socicon-mail mbr-iconfont mbr-iconfont-btn"></span>Quero acompanhar!</button></div>
+</div>
+</form><!--Formbuilder Form-->
+</div>
+            <div class="col-lg-6 offset-lg-1 col-12">
+                <div class="image-wrapper">
+                    <img class="w-100" src="https://oxglp.com/assets/images/img-formulario.jpg?v=251104" alt="">
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
+
 
 <!-- RODAPÉ -->
 <section data-bs-version="5.1" class="footer3 cid-v1B3BQ7KLN" once="footers" id="footer3-23">
