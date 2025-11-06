@@ -4,7 +4,6 @@ description: "Veja histórias reais de quem está transformando o corpo e a ment
 image: "https://i.ytimg.com/vi/4eOdYY_Guuc/maxresdefault.jpg"
 ---
 
-## 💙 Clientes compartilham resultados incríveis  
 *Veja histórias reais de quem está transformando o corpo e a mente com OXGLP®.*
 
 Você com certeza já ouviu falar da **Tirzepatida** — esse nome que vem ganhando espaço nas conversas sobre **emagrecimento saudável e sustentável**.  
@@ -88,6 +87,7 @@ Como disse nossa cliente ao final do depoimento:
 Quer entender mais sobre os bastidores da ciência do emagrecimento saudável e descobrir como o **OXGLP®** está revolucionando o controle de peso?
 
 👉 Continue acompanhando nossos conteúdos e entre para a comunidade **OXGLP®**, onde saúde, ciência e bem-estar andam de mãos dadas.  
+
 
 
 
