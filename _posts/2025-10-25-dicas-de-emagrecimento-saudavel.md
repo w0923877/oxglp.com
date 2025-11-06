@@ -1,8 +1,8 @@
-
+---
 title: "5 dicas práticas para emagrecer de forma saudável"
 description: "Pequenas mudanças na rotina que fazem toda a diferença — direto da comunidade OXGLP®."
 image: "https://i1.wp.com/blog.gsuplementos.com.br/wp-content/uploads/2024/03/emagrecimento-scaled.jpg?resize=720,405"
-
+---
 
 *Pequenas mudanças na rotina que fazem toda a diferença — direto da comunidade OXGLP®.*
 
@@ -80,3 +80,4 @@ E quando você combina isso com uma ajudinha de produtos de qualidade — como o
 
 ✨ Lembre-se: emagrecer não é castigo, é um investimento em você.
 E o primeiro passo é justamente começar pequeno.
+
