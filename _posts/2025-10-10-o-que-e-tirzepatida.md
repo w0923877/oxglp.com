@@ -1,7 +1,7 @@
 ---
 title: "O que é Tirzepatida e como ela atua?"
 description: "Entenda o componente ativo do OXGLP® e seu impacto no metabolismo."
-image: "https://oxglp.com/assets/images/product2.jpeg?v=005"
+image: "https://i1.wp.com/oxglp.com/assets/images/product2.jpeg?resize=720,405"
 ---
 
 Você com certeza já ouviu falar da **Tirzepatida** — esse nome difícil que anda aparecendo em todas as conversas sobre emagrecimento saudável. Mas afinal… o que é essa substância e por que tanta gente está falando dela? 🤔
@@ -61,3 +61,4 @@ Ela atua em múltiplos pontos do metabolismo, reduz o apetite, melhora o control
 
 Quer entender mais sobre os bastidores da ciência do emagrecimento saudável e descobrir como o **OXGLP®** está revolucionando o controle de peso?
 👉 Continue acompanhando nossos conteúdos e entre para a comunidade **OXGLP®**, onde saúde, ciência e bem-estar andam de mãos dadas.
+
