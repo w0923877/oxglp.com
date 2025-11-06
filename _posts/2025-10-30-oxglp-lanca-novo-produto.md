@@ -2,7 +2,7 @@
 layout: post
 title: "OXGLP® lança novo produto para controle de peso com tecnologia avançada"
 description: "A OXGLP® anuncia o lançamento de uma nova fórmula aprimorada, desenvolvida com tecnologia de absorção avançada para resultados mais rápidos."
-image: "https://i1.wp.com/blog.oxglp.com/assets/images/8352737-1.png" 
+image: "https://i1.wp.com/blog.oxglp.com/assets/images/8352737-1.png?resize=720,405" 
 ---
 
 
@@ -64,5 +64,6 @@ Enquanto os testes seguem em andamento, a expectativa do público cresce — e c
   
 
 O futuro do controle de peso inteligente começa agora — e ele tem nome: OXGLP®.
+
 
 
