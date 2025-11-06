@@ -58,7 +58,7 @@ Ela também contou que testou diferentes locais de aplicação, tentando o braç
 
 
 
-<iframe width="560" height="315" src="https://oxglp.com/view.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://oxglp.com/view.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 
@@ -87,4 +87,5 @@ Como disse nossa cliente ao final do depoimento:
 
 Quer entender mais sobre os bastidores da ciência do emagrecimento saudável e descobrir como o **OXGLP®** está revolucionando o controle de peso?  
 👉 Continue acompanhando nossos conteúdos e entre para a comunidade **OXGLP®**, onde saúde, ciência e bem-estar andam de mãos dadas.  
+
 
