@@ -1,12 +1,13 @@
 ---
-# Usa o layout 'default' e define um título para a página
+# Esta página usa o 'molde-mestre'
 layout: default
-title: Blog - Últimas Notícias sobre OXGLP
+# Define o título para o <head>
+title: Blog - OXGLP® Saúde e resultados reais
 ---
 
 {% assign latest_post = site.posts.first %}
 
-<section data-bs-version="5.1" class="image1 cid-v1GKz6eDpQ" id="image1-27-index">
+<section data-bs-version="5.1" class="image1 cid-v1GKz6eDpQ" id="image1-27">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-12 col-lg-5">
@@ -24,37 +25,36 @@ title: Blog - Últimas Notícias sobre OXGLP
                             <strong>{{ latest_post.title }}</strong>
                         </a>
                     </h3>
-                    <p class="mbr-text mbr-fonts-style display-7">{{ latest_post.description | default: latest_post.excerpt }}</p>
+                    <p class="mbr-text mbr-fonts-style display-7">{{ latest_post.description }}</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-
-<section data-bs-version="5.1" class="content5 cid-v1B6QhAto8" id="content5-26">    
+<section data-bs-version="5.1" class="content5 cid-v1B6QhAto8" id="content5-26">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-12 col-lg-6">
-                <p class="mbr-text mbr-fonts-style display-4">{{ content }}</p>
+                <div class="mbr-text mbr-fonts-style display-4">
+                  {{ latest_post.content }}
+                </div>
             </div>
         </div>
     </div>
 </section>
 
-
 {% assign other_posts = site.posts | offset: 1 | limit: 4 %}
 
-<section data-bs-version="5.1" class="content2 cid-v1B4p9OVbT" id="content2-24-index">
+<section data-bs-version="5.1" class="content2 cid-v1B4p9OVbT" id="content2-24">
     <div class="container">
         <div class="mbr-section-head">
             <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Mais lidos do blog.</strong></h4>
             <h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2 display-5">Leia as postagens recentes do blog sobre:</h5>
         </div>
         <div class="row mt-4">
-            
+
             {% for post in other_posts %}
-            
             <div class="item features-image col-12 col-md-6 col-lg-3">
                 <div class="item-wrapper">
                     <div class="item-img">
@@ -72,7 +72,6 @@ title: Blog - Últimas Notícias sobre OXGLP
                     </div>
                 </div>
             </div>
-
             {% endfor %}
             </div>
     </div>

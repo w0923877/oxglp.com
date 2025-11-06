@@ -1,8 +1,9 @@
 title: "OXGLP Blog"
-description: "Blog oficial OXGLP® - A Revolução do emagrecimento."
-url: "https://blog.oxglp.com"
-baseurl: "/"
-permalink: /:title.html
+description: "Blog oficial OXGLP® - Saúde e resultados reais"
+url: "https://w0923877.github.io"
+baseurl: "/oxglp.com"
+permalink: /blog/:title/
 plugins:
   - jekyll-feed
+  
 markdown: kramdown
