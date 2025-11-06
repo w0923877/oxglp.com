@@ -40,7 +40,7 @@ Menos acúmulo de gordura, mais disposição, e uma sensação geral de bem-esta
 Muitos usuários relatam que, além de emagrecer, começaram a dormir melhor, sentir menos ansiedade e ter mais energia no dia a dia.
 
 <iframe width="560" height="315" src="https://oxglp.com/view.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<br>
 #### 🌿 Por que a OXGLP® apostou nessa tecnologia
 
 A **OXGLP®** desenvolveu uma fórmula com **tecnologia de absorção aprimorada**, pensada para potencializar os efeitos da **Tirzepatida** de maneira segura e eficaz.
@@ -133,3 +133,4 @@ E quando combinada com boas noites de sono, hidratação e uma alimentação equ
 
 👉 Quer saber mais sobre como o **OXGLP®** está transformando o conceito de emagrecimento saudável?
 Continue acompanhando a comunidade **OXGLP®** — onde tecnologia, saúde e bem-estar se encontram para mudar vidas.
+
