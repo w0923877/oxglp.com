@@ -85,7 +85,9 @@ Como disse nossa cliente ao final do depoimento:
 
 
 
-Quer entender mais sobre os bastidores da ciência do emagrecimento saudável e descobrir como o **OXGLP®** está revolucionando o controle de peso?  
+Quer entender mais sobre os bastidores da ciência do emagrecimento saudável e descobrir como o **OXGLP®** está revolucionando o controle de peso?
+
 👉 Continue acompanhando nossos conteúdos e entre para a comunidade **OXGLP®**, onde saúde, ciência e bem-estar andam de mãos dadas.  
+
 
 
