@@ -1,8 +1,9 @@
 title: "OXGLP Blog"
 description: "Blog oficial OXGLP® - A Revolução do emagrecimento."
 url: "https://blog.oxglp.com"
-baseurl: "https://blog.oxglp.com"
+baseurl: "/"
 permalink: /:title.html
 plugins:
   - jekyll-feed
 markdown: kramdown
+
