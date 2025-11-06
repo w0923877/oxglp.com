@@ -1,6 +1,9 @@
 title: "OXGLP Blog"
 description: "Blog oficial OXGLP® - Saúde e resultados reais"
-theme: minima
+url: "https://w0923877.github.io"
+baseurl: "/oxglp.com"
+permalink: /blog/:title/
 plugins:
   - jekyll-feed
-permalink: /oxglp.com/:title.html
+  
+markdown: kramdown
